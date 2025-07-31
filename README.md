@@ -13,9 +13,9 @@ Glaucoma is a chronic eye condition that leads to irreversible vision loss if un
 - 👨‍⚕️ Tested by **100+ clinical users**
 - 📈 Ongoing improvements using **data augmentation** and **transfer learning**
 - 📊 Consistent **85%+ accuracy** on larger, more diverse datasets
-The analysis is based on the G1020 dataset, which contains annotated eye fundus images. The implementation is done in Jupyter Notebook, using models like Vision Transformer (ViT), ResNet-201, and MobileNetV2.
-📂 Dataset
-Name: G1020: A Glaucoma Fundus Image Dataset
+-The analysis is based on the G1020 dataset, which contains annotated eye fundus images. The implementation is done in Jupyter Notebook, using models like Vision Transformer (ViT), ResNet-201, and MobileNetV2.
+  📂 Dataset
+-Name: G1020: A Glaucoma Fundus Image Dataset
 
 Source: Kaggle
 
